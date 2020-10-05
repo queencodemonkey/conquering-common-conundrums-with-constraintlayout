@@ -30,4 +30,4 @@ From **Conquering Common Conundrums with `ConstraintLayout`** by Huyen Tue Dao
 - Chains
 - `Flow`
 
-![Toolbox](https://source.unsplash.com/BYTMWQfQU4Y/1920x1270)
+![Toolbox](https://source.unsplash.com/BYTMWQfQU4Y)
